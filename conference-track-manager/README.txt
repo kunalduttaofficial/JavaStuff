@@ -1,0 +1,1 @@
+This Conference Track Manager App requires the full text input file path as program argument.
